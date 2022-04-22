@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(174, 202, 224);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imagen1{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    border-width: 20px;
+   padding: 30px;
+ 
+    }
+
+#odin{
+   
+    width: 500px;
+    border-radius: 50px;
+    margin: auto;
+    padding: 10px;
+    border: solid 10px #01325f;
+
+    
+}
+.contenido{
+    background-color: white;
+    border-radius: 60px;
+    padding: 50px;
+    padding: 10px;
+
+    border: solid 10px #016b6b;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.botones{
+    padding: 10px;   
+    border-top: 2px #eeeeee; 
+    text-align: center;
+}
+
+#boton1{
+    background-color: rgb(29, 6, 243) ;
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    color: white;
+    font-size: large;
+}
+
+#boton2{
+    background-color: rgb(29, 6, 243) ;
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    font-size: large;
+    margin-left: 100px;
+    
+}
+            
